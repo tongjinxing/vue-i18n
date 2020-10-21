@@ -52,14 +52,6 @@
                 </el-dropdown>
             </div>
           </el-dropdown-item>
-          <!-- <a
-            target="_blank"
-            href="https://github.com/armour/vue-typescript-admin-template/"
-          >
-            <el-dropdown-item>
-              Github
-            </el-dropdown-item>
-          </a> -->
         </el-dropdown-menu>
       </el-dropdown>
     </div>
